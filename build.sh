@@ -1,3 +1,2 @@
 make dirhtml
-rm -rf docs
-mv build/dirhtml docs
+rsync -r build/dirhtml/ docs/
