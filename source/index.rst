@@ -22,8 +22,8 @@ chug は主に以下の活動を行っています。
 イベント
 ==========
 
-Chainer Meetup #08 開催予定です！
-https://chainer.connpass.com/event/106292/
+Chainer Meetup #09 開催予定です！
+https://chainer.connpass.com/event/120796/
 
 コンテンツ
 ==========
